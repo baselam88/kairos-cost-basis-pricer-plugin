@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds any quote from cost + margin so no deal is unprofitable by accident, and pairs it with a term-limited price-lock.",
+  "keywords": [
+    "basis",
+    "cost",
+    "kairos",
+    "pricer",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-cost-basis-pricer",
+  "repository": "https://github.com/baselam88/kairos-cost-basis-pricer-plugin",
+  "version": "0.1.0"
+}
